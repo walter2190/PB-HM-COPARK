@@ -1,5 +1,0 @@
-C:\proyectos\PB-HM-COPARK\main\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
-C:\proyectos\PB-HM-COPARK\main\WpfApp1\obj\Debug\MainWindow.g.cs
-C:\proyectos\PB-HM-COPARK\main\WpfApp1\obj\Debug\App.g.cs
-C:\proyectos\PB-HM-COPARK\main\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
-C:\proyectos\PB-HM-COPARK\main\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref

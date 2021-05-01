@@ -5,9 +5,14 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp1"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="750" Width="1100">
     <Grid>
-        <Label Content="Label" HorizontalAlignment="Left" Margin="314,220,0,0" VerticalAlignment="Top"/>
-
+        <Label Content="Proyecto" HorizontalAlignment="Left" Margin="136,42,0,0" VerticalAlignment="Top" Width="101"/>
+        <Label Content="Usuario" HorizontalAlignment="Left" Margin="26,101,0,0" VerticalAlignment="Top" Width="84"/>
+        <TextBox x:Name="txtUsuario" HorizontalAlignment="Left" Height="23" Margin="10,159,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Contraseña" HorizontalAlignment="Left" Margin="10,212,0,0" VerticalAlignment="Top" Width="84"/>
+        <TextBox x:Name="txtContrasena" HorizontalAlignment="Left" Height="22" Margin="10,272,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnIniciar" Content="Iniciar" HorizontalAlignment="Left" Margin="65,368,0,0" VerticalAlignment="Top" Width="75" Click="btnIniciar_Click"/>
+        <Button x:Name="btnRegistrarse" Content="Registrarse" HorizontalAlignment="Left" Margin="220,368,0,0" VerticalAlignment="Top" Width="74" Click="btnRegistrarse_Click"/>
     </Grid>
 </Window>

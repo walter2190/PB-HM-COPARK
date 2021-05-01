@@ -25,5 +25,10 @@ namespace WpfApp1
             InitializeComponent();
             //asdasd
         }
+
+        private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
+        }
     }
 }
